@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Lanyon</title>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2015-10-12T23:38:29-04:00</updated>
+ <id>http://lanyon.getpoole.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Gender parity in the 2015 Canadian federal election</title>
+   <link href="http://lanyon.getpoole.com/2015/10/13/gender/"/>
+   <updated>2015-10-13T00:00:00-04:00</updated>
+   <id>http://lanyon.getpoole.com/2015/10/13/gender</id>
+   <content type="html">&lt;p&gt;There are 1,792 candidates from 25 political parties across 338 electoral districts participating in Canada’s 2015 federal election. Of these candidates, 560, or 31.2%, are female.&lt;/p&gt;
+
+&lt;p&gt;The presence of women in elected positions isn’t the only indicator that women are adequately represented in government, but it is a pretty important one. How can political parties claim to speak for women if they don’t count any women among their leaders? At the very least, we would expect a party that treats men and women equally within its own ranks to put forth male and female candidates for election in roughly even proportions. This is especially true when there are a large number of candidates up for election. However, it is far from the case in Canada’s 2015 federal election.&lt;/p&gt;
+
+&lt;p&gt;From the four largest national parties &lt;sub&gt;&lt;sup&gt;(Conservative, Liberal, NDP, and Green, in case you haven’t had coffee today)&lt;/sup&gt;&lt;/sub&gt;, there are 1,350 candidates, 469 of whom (34.7%) are female.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;figure/fig1-1.png&quot; title=&quot;plot of chunk fig1&quot; alt=&quot;plot of chunk fig1&quot; style=&quot;display: block; margin: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In both the NDP and the Green Party, a respectable 42% of candidates are female - not too bad. By comparison, the Liberals look worse in this department, with about a third of their candidates being female.&lt;/p&gt;
+
+&lt;p&gt;The Conservatives bring up the rear, with an embarassingly low 21% of candidates being female. In absolute terms, the Conservatives have roughly half as many female candidates as the NDP and the Green Party, and a third as many as the Liberals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;figure/fig2-1.png&quot; title=&quot;plot of chunk fig2&quot; alt=&quot;plot of chunk fig2&quot; style=&quot;display: block; margin: auto;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In general, the provinces resemble each other pretty closely along this dimension, with women accounting for between 30 and 40 percent of candidates. Nova Scotia is a glaring exception, with only a fifth of candidates from these parties being female. That said, the figures in the low 30s observed in Saskatchewan, Ontario, and PEI are nothing to be proud of either.&lt;/p&gt;
+
+&lt;p&gt;I exclude the territories from the chart above, mainly to save space, but also because each comprises only one electoral district, making comparison with the provinces a little unfair (even PEI has four electoral districts). If you’re curious, a quarter of Big 4 candidates are female in the Yukon and Nunavut, and there are no female candidates in the Northwest Territories.&lt;/p&gt;
+
+&lt;p&gt;For the sake of completeness, I include plots of female representation broken down by party for each province. I exclude the territories, which only contain one electoral district apiece.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;figure/fig3-1.png&quot; title=&quot;plot of chunk fig3&quot; alt=&quot;plot of chunk fig3&quot; style=&quot;display: block; margin: auto;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

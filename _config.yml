@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               ''
+tagline:             ''
+description:         ''
+url:                 http://no-language.github.io
+baseurl:             http://no-language.github.io/elect-gender/
+paginate:            5
+
+# About/contact
+author:
+  name:              Dylan Moeller
+  url:               https://twitter.com/likelikethethe
+  email:             dylanmoeller@gmail.com
+
+# Custom vars
+version:             1.0.0
